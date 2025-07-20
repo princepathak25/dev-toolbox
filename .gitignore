@@ -1,0 +1,8 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node / build files (if added in future)
+node_modules/
+dist/
+*.log
