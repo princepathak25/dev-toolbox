@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio! This is a clean and creative HTML/CS
 
 ## 🔗 Live Preview
 
-🌐 [View Portfolio Website](https://princepathak25.github.io/portfolio-site/)  
+🌐 [View Website](https://princepathak25.github.io/dev-toolbox/)  
 _(Hosted via GitHub Pages)_
 
 ---
@@ -33,7 +33,7 @@ _(Hosted via GitHub Pages)_
 ## 📁 Folder Structure
 
 ```
-portfolio-site/
+dev-toolbox/
 │
 ├── index.html        # Main HTML file
 ├── style.css         # Stylesheet
