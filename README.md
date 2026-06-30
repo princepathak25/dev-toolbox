@@ -1,6 +1,6 @@
-# Portfolio Website
+# Dev Toolbox
 
-Welcome to my personal developer portfolio! This is a clean and creative HTML/CSS-based website built to showcase my work, skills, and passion for web development.
+Welcome to my personal developer portfolio! This is a clean and creative HTML/CSS-based website built to showcase some of the tools which I personally used.
 
 ---
 
