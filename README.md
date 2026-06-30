@@ -1,28 +1,28 @@
-# 💼 Prince Pathak - Portfolio Website 🚀
+# Portfolio Website
 
 Welcome to my personal developer portfolio! This is a clean and creative HTML/CSS-based website built to showcase my work, skills, and passion for web development.
 
 ---
 
-## 🔗 Live Preview
+## Live Preview
 
-🌐 [View Website](https://princepathak25.github.io/dev-toolbox/)  
+[View Website](https://princepathak25.github.io/dev-toolbox/)  
 _(Hosted via GitHub Pages)_
 
 ---
 
-## 📌 Features
+## Features
 
-- 💡 Responsive and mobile-friendly layout  
-- 🖼️ Minimal yet aesthetic UI  
-- ⚡ Smooth navigation between sections  
-- 🧠 Project highlights with real descriptions  
-- 📬 Interactive Contact Section with clickable links  
-- ❤️ Custom footer and themed styling  
+- Responsive and mobile-friendly layout  
+- Minimal yet aesthetic UI  
+- Smooth navigation between sections  
+- Project highlights with real descriptions  
+- Interactive Contact Section with clickable links  
+- Custom footer and themed styling  
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - HTML5  
 - CSS3 (Flexbox + transitions)  
@@ -30,7 +30,7 @@ _(Hosted via GitHub Pages)_
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 dev-toolbox/
@@ -42,20 +42,20 @@ dev-toolbox/
 
 ---
 
-## 📇 Contact Me
+## Contact Me
 
-- 📧 Email: [princepathakisme.987@gmail.com](mailto:princepathakisme.987@gmail.com)  
-- 🔗 LinkedIn: [Prince Pathak](https://www.linkedin.com/in/prince-pathak-142651373)  
-- 💻 GitHub: [princepathak25](https://github.com/princepathak25)  
+- Email: [princepathakisme.987@gmail.com](mailto:princepathakisme.987@gmail.com)  
+- LinkedIn: [Prince Pathak](https://www.linkedin.com/in/prince-pathak-142651373)  
+- GitHub: [princepathak25](https://github.com/princepathak25)  
 
 ---
 
-## 📄 License
+## License
 
 This project is open-sourced under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
-Thanks for checking out my portfolio. Feel free to fork, star ⭐, and connect!
+Thanks for checking out my portfolio. Feel free to fork, star, and connect!
